@@ -44,9 +44,3 @@ function Bubble()
     enable_buttons();
 }
 
-/*
-    *****************
-    DONE BY:-   TUMMALA KETHAN
-    
-    *****************
-*/
